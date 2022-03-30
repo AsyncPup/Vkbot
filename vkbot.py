@@ -7,7 +7,7 @@ import sqlite3
 import datetime
 
 
-bot = Bot(token="af41338109190d03dd65b1998ef819a1cffad813aa57d93897422140c3adbcb99bfa8684e68e747d05862")
+bot = Bot(token="token")
 ctx = CtxStorage()
 
 class RegData(BaseStateGroup):
